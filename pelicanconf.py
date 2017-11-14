@@ -24,13 +24,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),)
+LINKS = ()
 
 # Social widget
-SOCIAL = (('linkedin', '#'),
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/huashuai/'),
           ('github', '#'),
           ('rss', '#'),
-          ('twitter', '#'),)
+          ('twitter', 'https://twitter.com/huashuai'),)
 
 
 MENUITEMS = (('Archives', '/archives.html'),
@@ -43,7 +43,7 @@ CC_LICENSE = {
     'slug': 'by-sa'
 }
 
-COPYRIGHT_YEAR = 2016
+# COPYRIGHT_YEAR = 2016
 
 DEFAULT_PAGINATION = 8
 
