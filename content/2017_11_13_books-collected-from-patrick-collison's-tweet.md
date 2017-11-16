@@ -16,9 +16,9 @@ I'm definitely interested in making a list of the books mentioned in this thread
 
 In this blog post, I'll only cover the top 10 mentioned books, as that's where I get to in my analysis. Other things I want to is to look at the authors, published time and genres of the books. I'll probably need to use Goodreads or someth other APIs to do that.
 
-### Top 10 (Actually 11) Mentioned Books
+### Top 10 Mentioned Books
 
-Let's jump to the result first. If you are interested in how to get this list, I covered a little at the end of this blog post. Personally I found many interesting books I haven't read before, and this was one of the reasons I started the exercise.
+Let's jump to the result first. If you are interested in how to get this list, I covered a little at the end of this blog post. Personally I found many interesting books I haven't read before, and this was the biggest reason that I started the exercise.
 
 <table class="table table-bordered">
   <tr>
@@ -122,36 +122,6 @@ Let's jump to the result first. If you are interested in how to get this list, I
       <b><a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606&tag=traintest06-20">The Selfish Gene</a></b>. Professor Dawkins articulates a gene's eye view of evolution - a view giving centre stage to these persistent units of information, and in which organisms can be seen as vehicles for their replication.
     </td>
     <td> 10 </td>
-  </tr>
-  
-  <tr>
-    <td> 
-      <a href="https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469&tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/41vxAMcHOzL._SX307_BO1,204,203,200_.jpg" height="100" /> </a>
-    </td>
-    <td> 
-      <b><a href="https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469&tag=traintest06-20">Zen and The Art of Motocycle Maintenance</a></b> by Robert M. Pirsig is a powerful, moving, and penetrating examination of how we live . . . and a breathtaking meditation on how to live better. 
-    </td>
-    <td> 8 </td>
-  </tr>
-  
-  <tr>
-    <td> 
-      <a href="https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034&tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/51X7dEUFgoL._SX320_BO1,204,203,200_.jpg" height="100" /> </a>
-    </td>
-    <td> 
-      <b><a href="https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034&tag=traintest06-20">How to Win Friends and Influence People</a></b>. Dale Carnegie’s rock-solid, time-tested advice has carried countless people up the ladder of success in their business and personal lives.
-    </td>
-    <td> 8 </td>
-  </tr>
-  
-  <tr>
-    <td> 
-      <a href="https://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145&tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/51IKKAxhdGL._SX300_BO1,204,203,200_.jpg" height="100" /> </a>
-    </td>
-    <td> 
-      <b><a href="https://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145&tag=traintest06-20">Atlas Shrugged</a></b>. Peopled by larger-than-life heroes and villains, charged with towering questions of good and evil, Atlas Shrugged is Ayn Rand’s magnum opus: a philosophical revolution told in the form of an action thriller.
-    </td>
-    <td> 8 </td>
   </tr>
 </table>
 
