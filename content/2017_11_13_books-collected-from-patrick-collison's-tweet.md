@@ -16,9 +16,11 @@ I'm definitely interested in making a list of the books mentioned in this thread
 
 In this blog post, I'll only cover the top 10 mentioned books, as that's where I get to in my analysis. Other things I want to is to look at the authors, published time and genres of the books. I'll probably need to use Goodreads or someth other APIs to do that.
 
-### Top 10 Mentioned Books
+### Top 10 (Actually 12) Mentioned Books
 
 Let's jump to the result first. If you are interested in how to get this list, I covered a little at the end of this blog post. Personally I found many interesting books I haven't read before, and this was the biggest reason that I started the exercise.
+
+__I've put all books mentioned at least twice in a [spreadsheet](https://docs.google.com/spreadsheets/d/1Iebs4De6XYP6DlOA_0ozd3fBCpQAo_d9Hq8iZi6UyAg/). Feel free to check it out over there.__
 
 <table class="table table-bordered">
   <tr>
@@ -27,101 +29,137 @@ Let's jump to the result first. If you are interested in how to get this list, I
      <td> Review </td>
      <td> Mentions </td>
    </thead>
-  <td>
-    <a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095?tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/51zJS6PmxbL._SX333_BO1,204,203,200_.jpg" height="100" /> </a>
-  </td>
-  <td> <b><a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095?tag=traintest06-20">Sapiens</a></b> by Yuval Noah Harari, which is a summer reading pick by Barack Obama, Bill Gates and Mark Zuckerberg. At the time of writing the blog, it's the fourth most read book on Amazon Charts.
-  </td>
-  <td> 20 </td>
   </tr>
   <tr>
     <td> 
-      <a href="https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934?tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/31l24hBKHaL._SX280_BO1,204,203,200_.jpg" height="100" /> </a>
+      <a href="https://www.amazon.com/Holy-Bible-New-Living-Translation/dp/1414309473"> <img src="https://images-na.ssl-images-amazon.com/images/I/41h7kSsaYdL._SX324_BO1,204,203,200_.jpg" height="100" /> </a>
+    </td>
+    <td> 
+      <b><a href="https://www.amazon.com/Holy-Bible-New-Living-Translation/dp/1414309473">Bible</a></b>. "We are pressed on every side by troubles, but we are not crushed. We are perplexed, but not driven to despair." 2 Corinthians 4:8. 
+      <a href="https://www.amazon.com/Holy-Bible-New-Living-Translation/dp/1414309473?tag=traintest06-20">(Affiliate Link)</a>
+    </td>
+    <td> 27 </td>
+  </tr>
+
+  <tr>
+  <td>
+    <a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095"> <img src="https://images-na.ssl-images-amazon.com/images/I/51zJS6PmxbL._SX333_BO1,204,203,200_.jpg" height="100" /> </a>
+  </td>
+  <td> <b><a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095">Sapiens</a></b> by Yuval Noah Harari, which is a summer reading pick by Barack Obama, Bill Gates and Mark Zuckerberg. At the time of writing the blog, it's the fourth most read book on Amazon Charts.
+      <a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095?tag=traintest06-20">(Affiliate Link)</a>
+  </td>
+  <td> 25 </td>
+  </tr>
+ 
+  <tr>
+    <td> 
+      <a href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"> <img src="https://images-na.ssl-images-amazon.com/images/I/41RtytNpsfL._SX332_BO1,204,203,200_.jpg" height="100" /> </a>
+    </td>
+    <td> 
+      <b><a href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555">Thinking, Fast and Slow</a></b>.  Daniel Kahneman, the renowned psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think. 
+      <a href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555?tag=traintest06-20">(Affiliate Link)</a>
+    </td>
+    <td> 25 </td>
+  </tr>
+
+  <tr>
+    <td> 
+      <a href="https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934"> <img src="https://images-na.ssl-images-amazon.com/images/I/31l24hBKHaL._SX280_BO1,204,203,200_.jpg" height="100" /> </a>
     </td>
     <td>
-      <b><a href="https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934?tag=traintest06-20">1984</a></b> was George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, his dystopian vision of a government that will do anything to control the narrative is timelier than ever.
+      <b><a href="https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934">1984</a></b> was George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, his dystopian vision of a government that will do anything to control the narrative is timelier than ever.
+      <a href="https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934?tag=traintest06-20">(Affiliate Link)</a>
     </td>
-    <td> 19 </td>
+    <td> 20 </td>
   </tr>
-  
+ 
   <tr>
     <td> 
-      <a href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555?tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/41RtytNpsfL._SX332_BO1,204,203,200_.jpg" height="100" /> </a>
+      <a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095"> <img src="https://images-na.ssl-images-amazon.com/images/I/41D%2BJAzx5rL._SX329_BO1,204,203,200_.jpg" height="100" /> </a>
     </td>
+    <td>
+      <b><a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095">Antifragile</a></b> is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand.
+      <a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095?tag=traintest06-20">(Affiliate Link)</a>
+    </td>
+    <td> 20 </td>
+  </tr>
+
+
+   <tr>
     <td> 
-      <b><a href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555?tag=traintest06-20">Thinking, Fast and Slow</a></b>.  Daniel Kahneman, the renowned psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think. 
+      <a href="https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X"> <img src="https://images-na.ssl-images-amazon.com/images/I/41tu1ak888L._SX322_BO1,204,203,200_.jpg" height="100" /> </a>
+    </td>
+    <td>
+      <b><a href="https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X">The Black Swan</a></b>. A black swan is an event, positive or negative, that is deemed improbable yet causes massive consequences. In this groundbreaking and prophetic book, Taleb shows in a playful way that Black Swan events explain almost everything about our world, and yet we—especially the experts—are blind to them.
+      <a href="https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X?tag=traintest06-20">(Affiliate Link)</a>
+    </td>
+    <td> 18 </td>
+  </tr>
+
+   <tr>
+    <td> 
+      <a href="https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296"> <img src="https://images-na.ssl-images-amazon.com/images/I/41puRJbtwkL._SX331_BO1,204,203,200_.jpg" height="100" /> </a>
+    </td>
+    <td>
+      <b><a href="https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296">Zero To One</a></b>. The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things.
+      <a href="https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296?tag=traintest06-20">(Affiliate Link)</a>
     </td>
     <td> 16 </td>
   </tr>
-  
+   
   <tr>
     <td> 
-      <a href="https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296?tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/41puRJbtwkL._SX331_BO1,204,203,200_.jpg" height="100" /> </a>
+      <a href="https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X"> <img src="https://images-na.ssl-images-amazon.com/images/I/51B7EclqLBL._SX311_BO1,204,203,200_.jpg" height="100" /> </a>
     </td>
-    <td>
-      <b><a href="https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296?tag=traintest06-20">Zero To One</a></b>. The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things.
+    <td> 
+      <b><a href="https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X">Meditations</a></b>. One of the world's most famous and influential books, Meditations, by the Roman emperor Marcus Aurelius (A.D. 121–180), incorporates the stoic precepts he used to cope with his life as a warrior and administrator of an empire. 
+      <a href="https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X?tag=traintest06-20">(Affiliate Link)</a>
     </td>
-    <td> 14 </td>
+    <td> 13 </td>
   </tr>
-  
+   
   <tr>
     <td> 
-      <a href="https://www.amazon.com/Holy-Bible-New-Living-Translation/dp/1414309473?tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/41h7kSsaYdL._SX324_BO1,204,203,200_.jpg" height="100" /> </a>
+      <a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326"> <img src="https://images-na.ssl-images-amazon.com/images/I/5101H2lhtXL._SX329_BO1,204,203,200_.jpg" height="100" /> </a>
     </td>
     <td> 
-      <b><a href="https://www.amazon.com/Holy-Bible-New-Living-Translation/dp/1414309473?tag=traintest06-20">Bible</a></b>. "We are pressed on every side by troubles, but we are not crushed. We are perplexed, but not driven to despair." 2 Corinthians 4:8
+      <b><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326">Guns Germs and Steel: The Fates of Human Societies</a></b>. In this "artful, informative, and delightful" (William H. McNeill, New York Review of Books) book, Jared Diamond convincingly argues that geographical and environmental factors shaped the modern world. 
+      <a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326?tag=traintest06-20">(Affiliate Link)</a>
+    </td>
+    <td> 12 </td>
+  </tr>
+
+  <tr>
+    <td> 
+      <a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523"> <img src="https://images-na.ssl-images-amazon.com/images/I/41l%2B4UobkRL._SX325_BO1,204,203,200_.jpg" height="100" /> </a>
+    </td>
+    <td> 
+      <b><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523">Brave New World</a></b>. Now more than ever: Aldous Huxley's enduring "masterpiece ... one of the most prophetic dystopian works of the 20th century" (Wall Street Journal) must be read and understood by anyone concerned with preserving the human spirit in the face of our "brave new world".
+      <a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523?tag=traintest06-20">(Affiliate Link)</a>
     </td>
     <td> 11 </td>
   </tr>
-  
+
   <tr>
     <td> 
-      <a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095?tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/41D%2BJAzx5rL._SX329_BO1,204,203,200_.jpg" height="100" /> </a>
+      <a href="https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8"> <img src="https://images-na.ssl-images-amazon.com/images/I/41F75p2GedL._SX330_BO1,204,203,200_.jpg" height="100" /> </a>
     </td>
-    <td>
-      <b><a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095?tag=traintest06-20">Antifragile</a></b> is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand.
+    <td> 
+      <b><a href="https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8">Zen And The Art Of Motorcycle Maintenance</a></b>. Acclaimed as one of the most exciting books in the history of American letters, this modern epic became an instant bestseller upon publication in 1974, transforming a generation and continuing to inspire millions. 
+      <a href="https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8?tag=traintest06-20">(Affiliate Link)</a>
     </td>
     <td> 11 </td>
   </tr>
-  
+    
   <tr>
     <td> 
-      <a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523?tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/41l%2B4UobkRL._SX325_BO1,204,203,200_.jpg" height="100" /> </a>
+      <a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606"> <img src="https://images-na.ssl-images-amazon.com/images/I/41BSMHjI39L._SX327_BO1,204,203,200_.jpg" height="100" /> </a>
     </td>
     <td> 
-      <b><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523?tag=traintest06-20">Brave New World</a></b>. Now more than ever: Aldous Huxley's enduring "masterpiece ... one of the most prophetic dystopian works of the 20th century" (Wall Street Journal) must be read and understood by anyone concerned with preserving the human spirit in the face of our "brave new world"
+      <b><a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606">The Selfish Gene</a></b>. Professor Dawkins articulates a gene's eye view of evolution - a view giving centre stage to these persistent units of information, and in which organisms can be seen as vehicles for their replication.
+      <a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606?tag=traintest06-20">(Affiliate Link)</a>
     </td>
     <td> 11 </td>
-  </tr>
-  
-  <tr>
-    <td> 
-      <a href="https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X?tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/51B7EclqLBL._SX311_BO1,204,203,200_.jpg" height="100" /> </a>
-    </td>
-    <td> 
-      <b><a href="https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X?tag=traintest06-20">Meditations</a></b>. One of the world's most famous and influential books, Meditations, by the Roman emperor Marcus Aurelius (A.D. 121–180), incorporates the stoic precepts he used to cope with his life as a warrior and administrator of an empire. 
-    </td>
-    <td> 11 </td>
-  </tr>
-  
-  <tr>
-    <td> 
-      <a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326?tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/5101H2lhtXL._SX329_BO1,204,203,200_.jpg" height="100" /> </a>
-    </td>
-    <td> 
-      <b><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326?tag=traintest06-20">Guns Germs and Steel: The Fates of Human Societies</a></b>. In this "artful, informative, and delightful" (William H. McNeill, New York Review of Books) book, Jared Diamond convincingly argues that geographical and environmental factors shaped the modern world. 
-    </td>
-    <td> 11 </td>
-  </tr>
-  
-  <tr>
-    <td> 
-      <a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606?tag=traintest06-20"> <img src="https://images-na.ssl-images-amazon.com/images/I/41BSMHjI39L._SX327_BO1,204,203,200_.jpg" height="100" /> </a>
-    </td>
-    <td> 
-      <b><a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606?tag=traintest06-20">The Selfish Gene</a></b>. Professor Dawkins articulates a gene's eye view of evolution - a view giving centre stage to these persistent units of information, and in which organisms can be seen as vehicles for their replication.
-    </td>
-    <td> 10 </td>
   </tr>
 </table>
 
