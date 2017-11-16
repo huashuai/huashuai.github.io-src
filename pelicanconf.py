@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Huashuai Qu'
-SITENAME = u"Huashuai Qu's Blog"
+AUTHOR = u'HQ'
+SITENAME = u"HQ #WIP"
+SITESUBTITLE = 'Mathematician turned data scientist, who wants to build product'
 SITEURL = ''
 SITELOGO = '/images/logo.JPG'
 
@@ -13,7 +14,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-THEME = 'Flex'
+THEME = 'clean-blog'
 ROBOTS = u'index, follow'
 
 # Feed generation is usually not desired when developing
@@ -23,29 +24,13 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = ()
-
-# Social widget
-SOCIAL = (('linkedin', 'https://www.linkedin.com/in/huashuai/'),
-          ('github', '#'),
-          ('rss', '#'),
-          ('twitter', 'https://twitter.com/huashuai'),)
-
-
-MENUITEMS = (('Archives', '/archives.html'),
-             ('Categories', '/categories.html'),
-             ('Tags', '/tags.html'),)
-
-CC_LICENSE = {
-    'name': 'Creative Commons Attribution-ShareAlike',
-    'version': '4.0',
-    'slug': 'by-sa'
-}
-
-# COPYRIGHT_YEAR = 2016
+TWITTER_URL = 'https://twitter.com/huashuai'
+GITHUB_URL = ''
+FACEBOOK_URL = ''
 
 DEFAULT_PAGINATION = 8
+
+PLUGINS = ['embed_tweet']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
